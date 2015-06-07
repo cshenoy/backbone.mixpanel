@@ -5,5 +5,9 @@
     "name": "Chetan Shenoy"
   },
   "version": "0.0.1",
+  "dependencies"  : {
+    "backbone": "1.1.2",
+    "underscore"  : ">=1.7.0"
+  },
   "main": "backbone.mixpanel.js"
 }
