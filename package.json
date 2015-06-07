@@ -1,0 +1,9 @@
+{
+  "name": "backbone.mixpanel",
+  "description": "Backbone Mixpanel plugin",
+  "author": {
+    "name": "Chetan Shenoy"
+  },
+  "version": "0.0.1",
+  "main": "backbone.mixpanel.js"
+}
